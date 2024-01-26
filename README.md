@@ -42,7 +42,7 @@ Para ejecutar el juego en modo local, necesitas tener instalado un servidor web 
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar el juego, por favor abre un issue o un pull request.
 
 
-## 📜 Licencia
+## 📜 Licencia 
 
 Este proyecto está licenciado bajo los términos de la licencia MIT. Esto significa que puedes usar, copiar, modificar y distribuir el código libremente, siempre que reconozcas la autoría original y no lo uses con fines comerciales.
 
