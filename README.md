@@ -1,11 +1,11 @@
 # Primeros Pasos en PHP
-
-
-PHP es un lenguaje de programación muy potente y versátil que te permite crear aplicaciones web dinámicas y personalizadas. Con este proyecto, podrás aprender los conceptos básicos de PHP, como variables, operadores lógicos, strings, enteros, funciones, arrays, clases y objetos. Esperamos que disfrutes de este taller y que te sirva para mejorar tus habilidades de programación web. 😊
+<img src="./php first steps.jpg" alt="Imagen Primeros Pasos para README" height="400" width="500">
 
 ## Objetivo pedagógico 🎯
 
 El objetivo de este taller es aprender a crear aplicaciones web dinámicas usando PHP como lenguaje de programación backend.
+
+PHP es un lenguaje de programación muy potente y versátil que te permite crear aplicaciones web dinámicas y personalizadas. Con este proyecto, podrás aprender los conceptos básicos de PHP, como variables, operadores lógicos, strings, enteros, funciones, arrays, clases y objetos. Esperamos que lo disfrutes y que te sirva para mejorar tus habilidades de programación web.😊
 
 ## Objetivo de taller 🚀
 
