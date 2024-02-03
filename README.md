@@ -27,11 +27,11 @@ Para comprender mejor el funcionamiento y el propósito de este proyecto, te rec
 
 [![My Skills](https://skillicons.dev/icons?i=php,html)](https://skillicons.dev)
 
-## 🚀 Cómo ejecutar el juego
+## 🚀 Cómo ejecutar el proyecto
 
 ### Modo local
 
-Para ejecutar el juego en modo local, necesitas tener instalado un servidor web como Apache, Nginx o XAMPP, y PHP 7.4 o superior.
+Para ejecutar el taller de PHP en modo local, necesitas tener instalado un servidor web como Apache, Nginx o XAMPP, y PHP 7.4 o superior.
 
 - Clona o descarga el repositorio en tu equipo.
 - Copia la carpeta del proyecto en el directorio raíz de tu servidor web (por ejemplo, htdocs o www).
