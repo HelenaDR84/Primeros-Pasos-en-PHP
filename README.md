@@ -39,7 +39,7 @@ Para ejecutar el taller de PHP en modo local, necesitas tener instalado un servi
 
 ## 🤝 Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar el juego, por favor abre un issue o un pull request.
+Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorarlo, por favor abre un issue o un pull request.
 
 
 ## 📜 Licencia 
